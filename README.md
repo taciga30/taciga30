@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I'm Tatiana, 
+#### a front-end developer, UX/UI designer, and business administrator.
 
-<!--
-**taciga30/taciga30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Nodejs and Firebase. 
 
-Here are some ideas to get you started:
+- 👯 I am looking to participate collaboratively in projects that contribute to my learning and the growth of my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about learning resources and technological tools, I am passionate about constant learning.
+
+- ⚡ Fun fact: I love technology, photography, marine animals, and caring for the environment, I really like making crafts, lettering, and crocheting.
+
+
+
+
